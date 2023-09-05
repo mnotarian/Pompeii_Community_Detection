@@ -33,3 +33,6 @@ These networks can also be visualized interactively online at the links below:
 -  [Closest by Door Network CHAMP Communities](https://mnotarian.github.io/Pompeii_ClosestbyDoorNetwork/)
 -  [30 Second Network CHAMP Communities](https://mnotarian.github.io/Pompeii_30SecondNetwork/)
 -  [One Minute Network CHAMP Communities](https://mnotarian.github.io/Pompeii_OneMinuteNetwork/)
+
+  
+<img width="1200" alt="network map" src="Figure 7.jpg">
