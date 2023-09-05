@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/686189050.svg)](https://zenodo.org/badge/latestdoi/686189050)
+
 # Pompeii Community Detection
 Code and Data associated with 
 >**Notarian, M. "Social Network Analysis, Community Detection Algorithms, and Neighbourhood Identification in Pompeii." (CAA Oxford 2022)**
