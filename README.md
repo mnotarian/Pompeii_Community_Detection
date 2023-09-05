@@ -7,7 +7,7 @@ This repository contains a number of files that can be used to reproduce the ana
 
 - **Pompeii_Community_Detection_CHAMP.ipynb**: A Jupyter Notebook file that contains the Python code used to generate the analysis discussed in the paper. It explains how to install the customized version of CHAMP on your system, and then runs through the steps on each network. The original outputs are visible in each cell. This can be downloaded, opened in a Jupyter Notebook, and reproduced by loading the graphml files in this repository. However, please note, due to the stochastic nature of community detection algorithms, including CHAMP, it is possible that your results may differ slightly from those here.
 
-- **Belonging Degree.r**: An R script with the code and instructions used to generate each node's degree of belonging as discussed in the article. 
+- **Belonging Degree.R**: An ```.R``` script with the code and instructions used to generate each node's degree of belonging as discussed in the article. 
 
 This repository contains three ```.graphml``` files with the raw network data used in the article. These were exported with Gephi and can be opened there or with another suitable network program:
 - **closest_network.graphml**
